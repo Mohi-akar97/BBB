@@ -3,8 +3,8 @@ package Mohini;
 public class hemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("hello hemo");
+		System.out.println("gho");
 	}
 
 }
